@@ -1,2 +1,6 @@
 this is the second file
+<<<<<<< HEAD
 old one add here
+=======
+new person add here
+>>>>>>> 9cf77e0c52561925e93bbdcd70c158fad4ae8093
